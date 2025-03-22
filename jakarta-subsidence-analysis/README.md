@@ -1,4 +1,4 @@
-# North Jakarta Land Subsidence Analysis
+![jakarta_key_dates_timeline](https://github.com/user-attachments/assets/f568ad1c-0f72-4038-a401-4c119ff331e4)![jakarta_correlation_matrix](https://github.com/user-attachments/assets/bde53782-7ebf-4177-b1da-4e7e2049072f)# North Jakarta Land Subsidence Analysis
 
 ## Overview
 This repository contains a comprehensive analysis of land subsidence in North Jakarta, Indonesia, including spatial patterns, temporal trends, and future projections under various climate change and intervention scenarios. The analysis incorporates multiple datasets to understand the complex interplay between groundwater extraction, sea level rise, urbanization, and flooding risk.
@@ -30,32 +30,32 @@ Methods employed include:
 - Combined sea level rise and subsidence modeling
 
 ## Key Findings
-![jakarta_correlation_matrix](https://github.com/user-attachments/assets/f7d8da34-42a2-4dbb-8989-f11b0fb0abc3)
+![jakarta_correlation_matrix](https://github.com/user-attachments/assets/b24824c1-cae0-43f7-a9d3-50602cb0fc53)
 
 ### Spatial Patterns of Subsidence
 The analysis reveals distinct clusters of subsidence severity, with coastal areas experiencing the highest rates:
-![jakarta_subsidence_map_2024_v2](https://github.com/user-attachments/assets/ccad008e-25bc-4969-8bcf-c1785171ff2a)
+![jakarta_subsidence_map_2024_v2](https://github.com/user-attachments/assets/62459449-913b-406b-9d2e-2e8e0cad4bdb)
 *Map showing land subsidence rates across North Jakarta*
 
 ### Temporal Trends
 Subsidence rates have evolved over time, with some areas showing acceleration:
-![jakarta_subsidence_temporal_trend](https://github.com/user-attachments/assets/ac3d272a-f54f-4d3d-b8d0-dbc675deab78)
+![jakarta_subsidence_temporal_trend](https://github.com/user-attachments/assets/189001cb-cee0-4f21-9c5c-5c75ea6057b4)
 *Graph showing the evolution of subsidence rates from 2015-2024*
 
 ### Projections Under Different Scenarios
 Different climate scenarios and intervention strategies yield significantly different outcomes:
-![jakarta_subsidence_projections](https://github.com/user-attachments/assets/ea8a40e5-ce9d-4f6e-bd0f-e4aced2b441e)
-![jakarta_cumulative_subsidence_projections](https://github.com/user-attachments/assets/eaaf9526-e358-4724-92f4-6f34920525cd)
+![jakarta_subsidence_projections](https://github.com/user-attachments/assets/33019840-e25d-4c05-b3a0-86d272df40d3)
+![jakarta_cumulative_subsidence_projections](https://github.com/user-attachments/assets/90ee685f-fa42-4d31-ac50-a69c0e280818)
 *Projected subsidence under low, medium, and high impact scenarios*
 
 ### Effectiveness of Interventions
 Our analysis indicates that comprehensive intervention strategies combining groundwater regulation, artificial recharge, and building code reforms yield the highest benefit-cost ratios:
-![jakarta_intervention_effects](https://github.com/user-attachments/assets/67b2c951-9f1e-4883-86b8-0b1d3b2714f0)
+![jakarta_intervention_effects](https://github.com/user-attachments/assets/30b8e5c7-d0e8-47c3-bc6d-771a51686254)
 *Impact of different intervention strategies on cumulative subsidence*
 
 ### Submergence Timeline
 Parts of North Jakarta are projected to sink below sea level in the coming decades:
-![jakarta_key_dates_timeline](https://github.com/user-attachments/assets/d24d36ec-8d23-45cc-84db-70248871eec4)
+![jakarta_key_dates_timeline](https://github.com/user-attachments/assets/7ec8ce3e-1c5f-4ef6-a1d4-80d198c7e7d3)
 *Projected timeline for when different areas will sink below sea level*
 
 ## Key Recommendations
