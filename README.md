@@ -1,5 +1,3 @@
-![jakarta_key_dates_timeline](https://github.com/user-attachments/assets/f568ad1c-0f72-4038-a401-4c119ff331e4)![jakarta_correlation_matrix](https://github.com/user-attachments/assets/bde53782-7ebf-4177-b1da-4e7e2049072f)# North Jakarta Land Subsidence Analysis
-
 ## Overview
 This repository contains a comprehensive analysis of land subsidence in North Jakarta, Indonesia, including spatial patterns, temporal trends, and future projections under various climate change and intervention scenarios. The analysis incorporates multiple datasets to understand the complex interplay between groundwater extraction, sea level rise, urbanization, and flooding risk.
 
